@@ -4,9 +4,9 @@ Project Information
 
 - Project Title: Library Management System
 - Student Name: Aman Kumar
-- Course: B.Tech Computer Science and Engineering
+- Course: B.Tech Computer Science and Engineering (Core)
 - Semester: 1st Semester
-- ERP Number: RU-26-018
+- ERP Number: RU-26-01843
 - Language: Python 3
 
 Project Description
