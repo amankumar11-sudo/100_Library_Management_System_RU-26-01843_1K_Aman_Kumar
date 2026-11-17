@@ -71,7 +71,7 @@ assignment.
 -   Selected option 2 (Issue Book).
 -   Book ID: B101
 -   Member: Piya
--   Expected result: Book B101 is issued to Riya and the available book
+-   Expected result: Book B101 is issued to Piya and the available book
     count is 0.
 
 ### Test Case 3: Invalid Input
