@@ -70,7 +70,7 @@ assignment.
 
 -   Selected option 2 (Issue Book).
 -   Book ID: B101
--   Member: Riya
+-   Member: Piya
 -   Expected result: Book B101 is issued to Riya and the available book
     count is 0.
 
