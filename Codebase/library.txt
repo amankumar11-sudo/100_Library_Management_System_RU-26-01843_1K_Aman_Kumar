@@ -1,5 +1,0 @@
-B103|Introduction to Algorithms|Thomas H. Cormen|Available| B104|The C
-Programming Language|Brian W. Kernighan|Available| B105|Computer
-Networks|Andrew S. Tanenbaum|Available| B106|Database System
-Concepts|Abraham Silberschatz|Available| B107|Operating System
-Concepts|Peter B. Galvin|Available|
