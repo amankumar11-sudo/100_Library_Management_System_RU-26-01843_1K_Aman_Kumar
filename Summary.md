@@ -108,16 +108,3 @@ This project helped me understand how Python programming concepts can be
 used to develop a practical console-based application. I gained practice
 in using functions, lists, dictionaries, conditions, loops, and text
 file handling to manage library book records.
-
-## 7. Test Case Screenshots
-
-Add the screenshots of the four working test cases in the `testcases`
-folder:
-
-1.  Test Case 1 -- Add Book
-2.  Test Case 2 -- Issue Book
-3.  Test Case 3 -- Invalid Book ID
-4.  Test Case 4 -- Add, Search, and Return Book
-
-The screenshots should show the actual output produced when running the
-program.
