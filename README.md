@@ -86,7 +86,7 @@ Member: Piya
 
 Output:
 
-Book B101 issued to Riya. Status: Issued
+Book B101 issued to Piya. Status: Issued
 Available books: 0
 
 Example 3: Invalid Book ID
