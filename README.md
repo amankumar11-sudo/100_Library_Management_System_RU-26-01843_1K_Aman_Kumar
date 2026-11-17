@@ -1,64 +1,120 @@
 📚 Library Management System
 
-A console-based Library Management System developed using Python.
+Project Information
 
-This project helps manage library books through a simple menu-driven program.
+- Project Title: Library Management System
+- Student Name: Aman Kumar
+- Course: B.Tech Computer Science and Engineering
+- Semester: 1st Semester
+- ERP Number: RU-26-018
+- Language: Python 3
 
-🚀 Features
+Project Description
 
-- Add new books
-- Issue books to members
-- Return issued books
-- Search books by title or author
-- Display all books
-- Generate unique Book IDs
-- Store records using text file handling
-- Prevent issuing an already issued book
+The Library Management System is a simple console-based Python application used to manage library books.
 
-🛠️ Technologies Used
+It allows users to add new books, issue books to members, return books, search books by title or author, and display all available book records.
 
-- Python
+All book details are stored in a text file named "library.txt" using file handling.
+
+Features
+
+1. Add Book: Add new books with a unique book ID.
+2. Issue Book: Issue books to members.
+3. Return Book: Return issued books.
+4. Search Book: Search books by title or author.
+5. Display All Books: View all books with their current status.
+6. File Handling: Save and load book records using a text file.
+
+Technologies Used
+
+- Python 3
 - Lists and Dictionaries
 - Functions
-- File Handling
-- String Operations
+- Conditional Statements
+- Loops
+- Text File Handling
+- Exception Handling
 
-📂 Project Structure
+Project Files
 
 Library-Management-System/
 │
 ├── main.py
 ├── library.txt
-└── README.md
+├── README.md
+└── Summary.md
 
-▶️ How to Run
+Requirements
 
-1. Install Python.
-2. Download this repository.
-3. Open the project folder.
-4. Run the command:
+- Python 3 installed on your system.
+- No external libraries are required.
+
+How to Run the Project
+
+1. Download or clone the project repository.
+2. Open the project folder.
+3. Run the following command:
 
 python main.py
 
-📋 Menu Options
+4. Select an option from the menu.
+5. Follow the instructions displayed on the screen.
+6. Select Exit to save the book records and close the program.
 
-1. Add Book
-2. Issue Book
-3. Return Book
-4. Search Book
-5. Display All Books
-6. Exit
+Sample Input and Output
 
-💾 Data Storage
+Example 1: Add Book
 
-All book records are stored in a text file named "library.txt".
+Input:
 
-The program loads existing records at startup and saves changes automatically.
+Choose option (1-6): 1
+Title: Python Basics
+Author: Mark Lutz
 
-🎯 Project Objective
+Output:
 
-To understand and implement Python concepts such as Lists, Dictionaries, Functions, and File Handling through a practical project.
+Book added. ID: B101 | Python Basics | Mark Lutz | Available
 
----
+Example 2: Issue Book
 
-Developed as a B.Tech CSE Programming Project.
+Input:
+
+Choose option (1-6): 2
+Book ID: B101
+Member: Riya
+
+Output:
+
+Book B101 issued to Riya. Status: Issued
+Available books: 0
+
+Example 3: Invalid Book ID
+
+Input:
+
+Choose option (1-6): 2
+Book ID: B999
+
+Output:
+
+Book ID B999 not found.
+
+Data Storage
+
+All book records are stored in "library.txt".
+
+Each record contains:
+
+- Book ID
+- Book Title
+- Author Name
+- Book Status
+
+The records are separated using the "|" symbol.
+
+Conclusion
+
+This project helped me understand Python programming concepts such as functions, lists, dictionaries, loops, conditional statements, and file handling.
+
+It also improved my logical thinking and practical programming skills.
