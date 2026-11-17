@@ -82,7 +82,7 @@ Input:
 
 Choose option (1-6): 2
 Book ID: B101
-Member: Riya
+Member: Piya
 
 Output:
 
